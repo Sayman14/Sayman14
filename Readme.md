@@ -1,3 +1,5 @@
+<div align="center">
+  <img 
 src="https://github.com/Sanyam4007.png" alt="Sanyam's Profile Picture" style="border-radius: 50%; width: 200px; height: 200px; margin-bottom: 20px;"/>
   <h1>👋 Hello, I'm Sanyam</h1>
   <p>🤖 AI/ML Enthusiast | 💻 Aspiring Developer | 🌱 Tech Explorer</p>
