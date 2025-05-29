@@ -1,4 +1,4 @@
-!-- HERO BANNER -->
+<!-- HERO BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sayman14/sayman14/main/banner.png" alt="Sanyam Sood Hero Banner" width="100%" />
 </p>
