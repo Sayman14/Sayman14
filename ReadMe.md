@@ -34,7 +34,6 @@ If it's useful, clever, or slightly over-engineered, I probably built it at 2 AM
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=light" alt="Tech Stack" />
 </p>
 
-_(Dark mode supported — icons auto-adjust)_
 
 ---
 
