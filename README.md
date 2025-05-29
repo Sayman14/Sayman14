@@ -35,13 +35,10 @@ My brain runs best after midnight and on large doses of Python.
 
 ---
 
-### 🧰 My Tech Toolbox
+### ⚙️ Tech Stack (bigger icons)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=light" width="90%" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=light&perline=8" width="700"/>
 </p>
 
 > ☕ I speak fluent Python. JS is cool. React shows up when needed.  
