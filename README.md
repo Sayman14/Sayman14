@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Hey there! <img src="assets/wave.gif" width="28px" /> I'm Sanyam
+  Hey there! <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="28px" alt="Waving Hand"/> I'm Sanyam
 </h1>
 
 <p align="center">
