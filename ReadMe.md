@@ -1,67 +1,65 @@
 <h1 align="center">Hey, I'm Sanyam 👋</h1>
+
 <p align="center">
-  🧠 AI Explorer • 🛠️ Backend Engineer • 🧑‍🎓 Always Learning<br/>
-  <i>Crafting intelligent, secure, and scalable systems — one line of code at a time.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=AI+Explorer+%F0%9F%A7%A0;Backend+Engineer+%F0%9F%9B%A0%EF%B8%8F;Open+Source+Builder+%F0%9F%92%BB;Forever+Learning+%F0%9F%92%AF" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🧠 AI Curious • 🔧 Backend Builder • 🧑‍🎓 Forever Learning<br/>
+  <i>I break stuff, fix it better, and sometimes accidentally ship features 🚀</i>
 </p>
 
 ---
 
-### 💼 About Me
+### 🤔 Who's This Guy?
 
-Hi! I’m a 17-year-old developer from India with a strong focus on backend development and a growing passion for artificial intelligence. I like building tech that’s not just clever — but useful, secure, and built to scale.
+Hey! I’m Sanyam — a 17-year-old developer from India who loves crafting **smart, secure, and scalable** systems.  
+Backend is home, AI is the playground, and frontend… well, it shows up when absolutely necessary 😅
 
-I enjoy clean architecture, efficient APIs, smart automation, and tools that *just work*.  
-Frontend? I can do it when I have to — but my heart belongs to servers and logic.
-
----
-
-### 🧠 What I Do
-
-- 🛠️ **Backend Development** — building fast, secure, and scalable APIs  
-- 🤖 **AI Experiments** — working with models, automation, and data-driven tools  
-- 🔐 **Security First** — focusing on privacy-respecting systems and robust architectures  
-- 🌐 **Occasional Frontend Work** — when backend needs a face 😅
+If it's useful, clever, or slightly over-engineered, I probably built it at 2 AM.
 
 ---
 
-### 🚀 Featured Projects
+### 🧪 Ongoing Experiments
 
-- **🔒 SecureShare** – A privacy-focused password sharing service built with strong encryption and zero tolerance for weak security.  
-- **🤖 AI Telegram Bot** – A multi-functional bot that summarizes, translates, and helps with academic questions — like a pocket-sized assistant.  
-- **🧪 Side Projects** – From automation tools to weird 2 AM experiments — check the pinned ones on my profile!
+- **🔐 SecureShare** – Share passwords safely, like a grown-up.  
+- **🤖 Telegram Bot with Brains** – Summarizes, translates, and explains — it's basically a study partner on steroids.  
+- **🛠️ Side Projects** – Helpful? Sometimes. Fun? Always.
 
 ---
 
-### 🧰 Tech Stack
+### ⚙️ Stuff I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,html,css,tailwind,react,flask,mongodb,postgres,git,github,linux,vscode&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=light" alt="Tech Stack" />
 </p>
 
-*(automatically switches for dark/light mode — powered by [skillicons.dev](https://skillicons.dev))*
+_(Dark mode supported — icons auto-adjust)_
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 The GitHub Energy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayman14&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayman14&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayman14&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sayman14&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayman14&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayman14&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Get in Touch
+### 📬 Let's Talk
 
-📧 **sanyamsood14@gmail.com**  
-Got an idea? Building something cool? Or just want to talk backend logic over a virtual chai?  
-I’m always up for a chat or collab.
+Got a cool project? An idea that needs a brain?  
+Or just want to talk backend over chai?
+
+Shoot me an email → **sanyamsood14@gmail.com**
 
 ---
 
 <p align="center">
-  <i>“Code is a tool. How you use it — that’s where the creativity begins.”</i>
+  <i>"Great code reads like a story...<br/>and bad code feels like a horror movie."</i><br/>
+  <sub>PS: If my code works on the first try, I assume I forgot to save.</sub>
 </p>
