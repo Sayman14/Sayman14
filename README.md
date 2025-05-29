@@ -12,40 +12,44 @@
 </p>
 
 <p align="center">
-  🧠 AI Curious • 🔧 Backend Builder • 👨‍💻 Slightly allergic to frontend<br/>
-  <i>I break stuff, fix it better, and sometimes accidentally ship features 🚀</i>
+  🧠 Obsessed with AI • 🔧 Backend enthusiast • 💻 Frontend when I absolutely have to<br/>
+  <i>I break stuff, fix it smarter, and sometimes accidentally deploy to prod 🚀</i>
 </p>
 
 ---
 
-### 🧑‍🚀 Meet the Dev
+### 🧑‍🚀 So, Who's This Guy?
 
 Hi! I’m Sanyam — a 17 y/o dev from India 🇮🇳  
-I build secure, smart, and slightly over-engineered tools at 2 AM (peak brain hours).  
-Backend is my vibe, AI is the rabbit hole, and frontend... only when necessary 😅
+My brain runs best after midnight and on large doses of Python.  
+**AI/ML is my main jam**, backend is my comfort zone, and frontend? Let's just say... it works. 😅
 
 ---
 
-### 🧪 Ongoing Experiments
+### 🧪 Currently Brewing
 
-- 🔐 **SecureShare** – Share passwords like a pro, minus the sticky notes  
-- 🤖 **Smart Telegram Bot** – News summarizer, translator, doubt solver — it's like your study buddy, but on caffeine  
-- 🌐 **Side Projects** – Sometimes useful, always fun
+- 🔐 **SecureShare** — Passwords shared safely, without sticky notes or sketchy spreadsheets  
+- 🤖 **Overpowered Telegram Bot** — Your multilingual, AI-fueled, always-on homework buddy  
+- 🌱 **Experiments in AI/ML** — Neural nets, LLMs, and me trying not to burn my GPU  
+- 🔧 **Side Projects** — Some useful, some chaotic, all proudly overengineered
 
 ---
 
-### ⚙️ My Toolbox
+### 🧰 My Tech Toolbox
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=light" width="700" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=light" width="90%" />
   </picture>
 </p>
 
+> ☕ I speak fluent Python. JS is cool. React shows up when needed.  
+> 🚀 I run on VSCode, Git, and lots of terminal caffeine.
+
 ---
 
-### 🚀 The GitHub Zone
+### 📊 Stats That Flex (a Little)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayman14&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
@@ -57,17 +61,18 @@ Backend is my vibe, AI is the rabbit hole, and frontend... only when necessary �
 
 ---
 
-### 📬 Hit Me Up
+### 📬 Let's Connect
 
-💡 Got an idea? Project? Weird bug?  
-🫖 Let’s talk code over chai.
+Have a cool idea? Built something wild?  
+Or just want to rant about semicolons?
 
-📩 Email me: **sanyamsood14@gmail.com**
+💌 Email me → **sanyamsood14@gmail.com**  
+☕ Bonus points if you bring chai.
 
 ---
 
 <p align="center">
   <i>"Great code reads like a story...<br/>
   and bad code feels like a horror movie."</i><br/>
-  <sub>PS: If it compiles on the first try, I definitely forgot to save.</sub>
+  <sub>PS: If it runs first try, I probably forgot to save something.</sub>
 </p>
