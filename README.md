@@ -64,7 +64,7 @@ Have a cool idea? Built something wild?
 Or just want to rant about semicolons?
 
 💌 Email me → **sanyamsood14@gmail.com**  
-☕ Bonus points if you bring chai.
+☕ Bonus points if you bring coffee.
 
 ---
 
