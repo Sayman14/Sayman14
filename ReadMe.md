@@ -31,9 +31,8 @@ If it's useful, clever, or slightly over-engineered, I probably built it at 2 AM
 ### ⚙️ Stuff I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=light&perline=8" alt="Tech Stack" width="600" />
 </p>
-
 
 ---
 
