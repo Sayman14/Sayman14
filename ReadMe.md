@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sayman14/sayman14/banner.png" alt="Sanyam Sood Hero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sayman14/Sayman14/refs/heads/main/banner.png" alt="Sanyam Sood Hero Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Sanyam 👋</h1>
