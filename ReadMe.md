@@ -1,24 +1,67 @@
-# 💫 About Me:
-## 🧑‍💻 Who Am I, Really?<br><br>Hey! I’m Sanyam — a 17-year-old developer from India who’s into two things:  <br>🧠 building smart tech (AI/ML) and 🛠️ crafting rock-solid backend systems.  <br>I like code that runs fast, scales well, and doesn’t throw mysterious errors at 2 AM.<br><br>Frontend? Yeah, I can do it… but let’s just say we’re not best friends 😅<br><br>---<br><br>## 🔐 Things I’ve Built (And Brag About Slightly)<br><br>- **SecureShare** – A secure password-sharing tool that does its job without being shady. Stop sending passwords over text. Please.  <br>- A Telegram bot that summarizes, translates, and answers academic questions — like a study buddy, but way more available.  <br>- Loads of side projects that range from “wow this is useful” to “I made this at 1 AM because why not?”<br><br>---<br><br>## ⚙️ What I’m Up To These Days<br><br>- Writing APIs that are fast, secure, and don’t collapse under pressure  <br>- Hosting backends on free tools without compromising quality (or sanity)  <br>- Blending AI into real-world apps in ways that actually make sense<br><br>---<br><br>## 💬 Fun Facts That Are Actually True<br><br>- If code works on the first try, I don’t celebrate — I investigate  <br>- Debugging eats my time, but I still lowkey enjoy the detective work  <br>- I believe in clean code, clear logic, and avoiding chaos in the repo 🍝<br><br>---<br><br>## 📬 Let’s Talk<br><br>Got an idea? Building something cool? Or just want to talk backend logic over a virtual chai?  <br>Drop me a message at **sanyamsood14@gmail.com** — I’m always up for good conversations and cool collabs!
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notsanyam.14) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanyamsood14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamsood14@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sayman14&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sayman14&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayman14&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sayman14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hey, I'm Sanyam 👋</h1>
+<p align="center">
+  🧠 AI Explorer • 🛠️ Backend Engineer • 🧑‍🎓 Always Learning<br/>
+  <i>Crafting intelligent, secure, and scalable systems — one line of code at a time.</i>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sayman14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💼 About Me
+
+Hi! I’m a 17-year-old developer from India with a strong focus on backend development and a growing passion for artificial intelligence. I like building tech that’s not just clever — but useful, secure, and built to scale.
+
+I enjoy clean architecture, efficient APIs, smart automation, and tools that *just work*.  
+Frontend? I can do it when I have to — but my heart belongs to servers and logic.
+
+---
+
+### 🧠 What I Do
+
+- 🛠️ **Backend Development** — building fast, secure, and scalable APIs  
+- 🤖 **AI Experiments** — working with models, automation, and data-driven tools  
+- 🔐 **Security First** — focusing on privacy-respecting systems and robust architectures  
+- 🌐 **Occasional Frontend Work** — when backend needs a face 😅
+
+---
+
+### 🚀 Featured Projects
+
+- **🔒 SecureShare** – A privacy-focused password sharing service built with strong encryption and zero tolerance for weak security.  
+- **🤖 AI Telegram Bot** – A multi-functional bot that summarizes, translates, and helps with academic questions — like a pocket-sized assistant.  
+- **🧪 Side Projects** – From automation tools to weird 2 AM experiments — check the pinned ones on my profile!
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,html,css,tailwind,react,flask,mongodb,postgres,git,github,linux,vscode&theme=light" alt="Tech Stack" />
+</p>
+
+*(automatically switches for dark/light mode — powered by [skillicons.dev](https://skillicons.dev))*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayman14&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayman14&theme=default&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayman14&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Get in Touch
+
+📧 **sanyamsood14@gmail.com**  
+Got an idea? Building something cool? Or just want to talk backend logic over a virtual chai?  
+I’m always up for a chat or collab.
+
+---
+
+<p align="center">
+  <i>“Code is a tool. How you use it — that’s where the creativity begins.”</i>
+</p>
