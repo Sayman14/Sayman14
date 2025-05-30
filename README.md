@@ -35,7 +35,7 @@ My brain runs best after midnight and on large doses of Python.
 
 ---
 
-### ⚙️ Tech Stack (bigger icons)
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css,tailwind,mongodb,postgres,git,github,linux,vscode&theme=light&perline=8" width="700"/>
